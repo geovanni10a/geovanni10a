@@ -1,13 +1,12 @@
-<h1>Olá 👋, tudo bem?</h1>
+# Olá 👋, tudo bem?
 
-Me chamo **Geovanni Rodrigues**, sou estudante de **Ciência da Computação** na Universidade Federal do Amapá (UNIFAP), desenvolvedor Python com foco em backend e técnico em Redes de Computadores pelo Instituto Federal do Amapá. Atualmente, sou **estagiário de suporte técnico no SEBRAE-AP** e **residente em TIC pelo programa IndustrIA**, voltado à capacitação em Inteligência Artificial. Tenho experiência na participação de projetos e produções científicas, por meio de projeto de iniciação científica.
+<img align="right" src="./img/profile.png" width="250" alt="Foto de Perfil" />
 
-<img align="right" src="URL_DA_SUA_IMAGEM_AQUI" width="250" alt="Foto de Perfil" />
+<br>
 
-<br/>
-<br/>
+Me chamo **Geovanni Rodrigues**, sou estudante de **Ciência da Computação** na Universidade Federal do Amapá (UNIFAP), desenvolvedor Python com foco em backend e técnico em Redes de Computadores pelo Instituto Federal do Amapá (IFAP). Atualmente, sou **estagiário de suporte técnico no SEBRAE-AP** e **residente em TIC pelo programa IndustrIA**, voltado à capacitação em Inteligência Artificial. Tenho experiência na participação de projetos e produções científicas, por meio de projeto de iniciação científica.
 
-## 💻 Tecnologias que utilizo</h2>
+### Tecnologias que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -16,3 +15,6 @@ Me chamo **Geovanni Rodrigues**, sou estudante de **Ciência da Computação** n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
+
+<br clear="all"/>
+
