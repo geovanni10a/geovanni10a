@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Olá 👋, tudo bem?</h1>
 
-<!--
-**geovanni10a/geovanni10a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Geovanni Rodrigues**, sou estudante de **Ciência da Computação** na Universidade Federal do Amapá (UNIFAP), desenvolvedor Python com foco em backend e técnico em Redes de Computadores pelo Instituto Federal do Amapá. Atualmente, sou **estagiário de suporte técnico no SEBRAE-AP** e **residente em TIC pelo programa IndustrIA**, voltado à capacitação em Inteligência Artificial. Tenho experiência na participação de projetos e produções científicas, por meio de projeto de iniciação científica.
 
-Here are some ideas to get you started:
+<img align="right" src="URL_DA_SUA_IMAGEM_AQUI" width="250" alt="Foto de Perfil" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+## 💻 Tecnologias que utilizo</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+</div>
